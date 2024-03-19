@@ -2,6 +2,7 @@
 
 - Embedded Drivers (LoRa, Camera etc)
 - Game Engine
+- RayLib Bindings
 - Games
 - ACID Database
 - Distributed Database
@@ -19,3 +20,5 @@
 - Smart Contracts
 - VPN
 - RTOS
+- Cloud Firestore Plugin/Binding
+- Graph DB Plugin/Binding
