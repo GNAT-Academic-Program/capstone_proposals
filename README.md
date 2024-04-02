@@ -1,5 +1,6 @@
 # Capstone Proposals
 
+- Software 3D renderer
 - Embedded Drivers (LoRa, Camera etc)
 - Game Engine
 - RayLib Bindings
