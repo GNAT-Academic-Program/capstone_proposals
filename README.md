@@ -1,6 +1,7 @@
 # Capstone Proposals
 
-- Software 3D renderer
+- Double-entry accounting system with a command-line reporting interface. (clone-ishh of https://github.com/ledger/ledger)
+- Software 3D renderer. Implementation of : https://github.com/ssloy/tinyrenderer
 - Embedded Drivers (LoRa, Camera etc)
 - Game Engine
 - RayLib Bindings
