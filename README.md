@@ -1,5 +1,6 @@
 # Capstone Proposals
 
+- Lora P2P, usb dongle + antenna (plug in laptop)
 - littlefs
 - STUN, TURN, ICE server
 - Compiler, LR parser for : https://lisperator.net/pltut/
